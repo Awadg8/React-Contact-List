@@ -36,6 +36,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. Clone or download the repository to your local machine
 2. Open the project in your code editor
 3. Open the index.html file in your web browser to run the app
+4. First do npm init then npm start
 
 ## Built With
 
@@ -46,11 +47,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Demo
 
-Check out the live demo of the application at : [https://contact-list-coding-ninja.vercel.app/](https://contact-list-coding-ninja.vercel.app/)
+Check out the live demo of the application at : [https://react-contact-list-eta.vercel.app/](https://react-contact-list-eta.vercel.app/)
 
 ## Authors
 
-- [https://github.com/rahul2870](https://github.com/rahul2870)
+- [https://github.com/Awadg8](https://github.com/Awadg8)
 
 ## License
 
